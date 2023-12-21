@@ -27,6 +27,7 @@ main.d main.o: .././main.c \
  .././HAL/DC_ENCODER/../../LIB/LBIT_MATH.h \
  .././HAL/DC_ENCODER/../../LIB/LSTD.h \
  .././HAL/DC_ENCODER/../../MCAL/DIO/DIO_interface.h \
+ .././HAL/DC_ENCODER/../../HAL/H_BRIDGE/H_Bridge.h \
  c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\avr\interrupt.h \
  .././MCAL/EXTI/EXTI_Interface.h
 
@@ -97,6 +98,8 @@ c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\lib\
 .././HAL/DC_ENCODER/../../LIB/LSTD.h:
 
 .././HAL/DC_ENCODER/../../MCAL/DIO/DIO_interface.h:
+
+.././HAL/DC_ENCODER/../../HAL/H_BRIDGE/H_Bridge.h:
 
 c:\program\ files\ (x86)\atmel\studio\7.0\toolchain\avr8\avr8-gnu-toolchain\avr\include\avr\interrupt.h:
 
