@@ -83,7 +83,7 @@ void start_Motor()
 void calculate_PID()
 {
 	 int errorValue = motorPosition - Target; //Current position - target position (or setpoint)
-	 controlSignal = (proportional * errorValue)
+	 controlSignal = proportional * errorValue;
 	 return;
 }
 /***************************************************************************************************/
